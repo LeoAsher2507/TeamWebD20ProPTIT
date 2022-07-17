@@ -1,7 +1,10 @@
 ﻿
 # Các đơn vị trong CSS
 
+<<<<<<< HEAD
 Vì phần này trước đã tìm hiểu rồi, nhưng anh muốn em tìm hiểu rõ để giải thích dễ hiểu cho các bạn về các đơn vị, và nên dùng đơn vị nào nên dùng, đặc biệt khi responsive. Vì sao?
+=======
+>>>>>>> f4121597bc4ead8cf880c615d7a8794d0eefbc5f
 
 ***-   Phân loại:***
     
