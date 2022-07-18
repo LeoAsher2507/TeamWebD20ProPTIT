@@ -191,7 +191,7 @@
 //       let nameOfStudent = i.name;
 //       console.log(nameOfStudent);
 //       let x = nameOfStudent.indexOf("Duy");
-//       if (x == -1 || x == 0 || x + 3 == nameOfStu.length) filtered.push('Pass');
+//       if (x == -1 || x == 0 || x + 3 == nameOfStudent.length) filtered.push('Pass');
 //       else filtered.push('Fail');
 //     }
 //     else filtered.push('Fail');
